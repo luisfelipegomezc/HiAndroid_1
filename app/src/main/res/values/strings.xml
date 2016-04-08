@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HiAndroid</string>
+    <string name="saludo">Hola Udea</string>
+    <string name="titulo">formulario</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="subjet">subjet</string>
+
+</resources>
